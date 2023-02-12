@@ -40,5 +40,3 @@ git commit  --am
     git checkout
 
 ## Ветвление в Git
-
-
