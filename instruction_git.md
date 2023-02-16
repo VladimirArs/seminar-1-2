@@ -47,18 +47,8 @@ git commit  --am
 
     git branch
     
-### Добавление веток
-
-Чтобы добавить ветку нужно ввести команду :
-
-    git branch <branch_name>
-
-где \< branch_name\> - имя новой ветки
-
-## Ветка в Git n
-
-Посмотреть ветки команда:
-
-
-git branch
-jnjfgd
+Чтобы посмотреть  ветку надо ввести команд:
+    
+    git branch
+    
+  did not  known to git
