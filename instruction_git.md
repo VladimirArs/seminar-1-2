@@ -56,5 +56,3 @@ git commit  --am
 где \< branch_name\> - имя новой ветки
 
 ## Ветка в Git
-
-FFVFDVFD
