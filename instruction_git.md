@@ -47,3 +47,7 @@ git commit  --am
 
     git branch
     
+Чтобы посмотреть  ветку надо ввести команд:
+    
+    git branch
+    
