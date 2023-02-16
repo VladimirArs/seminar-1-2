@@ -47,3 +47,12 @@ git commit  --am
 
     git branch
     
+### Добавление веток
+
+Чтобы добавить ветку нужно ввести команду :
+
+    git branch <branch_name>
+
+где \< branch_name\> - имя новой ветки
+
+## Ветка в Git
