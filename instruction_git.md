@@ -51,3 +51,4 @@ git commit  --am
     
     git branch
     
+  did not  known to git
