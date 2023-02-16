@@ -55,5 +55,9 @@ git commit  --am
 
 где \< branch_name\> - имя новой ветки
 
-## Ветка в Git
-jjk
+## Ветка в Git n
+
+Посмотреть ветки команда:
+
+
+git branch
