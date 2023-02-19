@@ -54,3 +54,5 @@ git commit  --am
   did not  known to git
 
 ## Удаленные репозитории
+
+Строка с информацией
